@@ -1,0 +1,30 @@
+#wrapper{
+    width: 500px;
+    background-color: lightgoldenrodyellow;
+    margin: 0px auto;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+.center{
+    margin: 0px auto;
+}
+.centertext{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table, th, td{
+    border: 1px solid black;
+    padding: 5px;
+}
+th{
+    background-color: goldenrod;
+}
+.wide{
+    width: 90%;
+    display: block;
+    margin: 10px;
+}
